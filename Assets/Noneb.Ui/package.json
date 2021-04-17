@@ -1,0 +1,17 @@
+{
+  "name": "noneb.ui",
+  "version": "0.0.1",
+  "displayName": "Noneb.Ui",
+  "description": "Base Ui framework of the Noneb universe",
+  "unity": "2020.2",
+  "dependencies": {},
+  "keywords": [
+    "Ui",
+    "Noneb"
+  ],
+  "author": {
+    "name": "Noobnewbier",
+    "email": "peter789b@gmail.com",
+    "url": "https://github.com/noobnewbier/Noneb.Ui"
+  }
+}
