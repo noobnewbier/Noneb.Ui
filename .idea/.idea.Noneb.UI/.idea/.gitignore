@@ -1,0 +1,13 @@
+﻿# Default ignored files
+/shelf/
+/workspace.xml
+# Rider ignored files
+/modules.xml
+/projectSettingsUpdater.xml
+/contentModel.xml
+/.idea.Noneb.UI.iml
+# Datasource local storage ignored files
+/../../../../../../:\UnityWorkSpace\Noneb.Ui\.idea\.idea.Noneb.UI\.idea/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/
